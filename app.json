@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/store/store",
+    "pages/goods/goods",
+    "pages/storelist/storelist",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#181818",
+    "navigationBarTitleText": "喜结良缘",
+    "navigationBarTextStyle": "white"
+  }
+}
